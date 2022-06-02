@@ -1,1 +1,2 @@
 # spicetify-config
+# spicetify-config
